@@ -1,6 +1,6 @@
-import lemonpic1 from './assets/lemonade_smallest.png'
-import lemonpic2 from './assets/lemonade_smaller.png'
-import lemonpic3 from './assets/lemonade.png'
+import lemonpic1 from './assets/lemonade_smallest.png';
+import lemonpic2 from './assets/lemonade_smaller.png';
+import lemonpic3 from './assets/lemonade.png';
 
 export const productList = [
     {
