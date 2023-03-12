@@ -60,3 +60,15 @@
     font-size: 25px;
     margin-bottom: 5px;
   }
+
+  .checkoutBackground{
+    background-color: #faf2c8;
+    padding: 40px;
+    padding-top: 5px;
+  }
+
+  .checkoutX {
+    width: 50px !important;
+    height: 50px !important;;
+    margin-left: 630px !important;;
+  }
